@@ -60,6 +60,14 @@ As the **Founder of Odoie**, I combine business analysis, functional consulting,
 
 </div>
 
+## Featured Project
+
+### [24 Hours Italian Restaurant](https://github.com/isrargul00/24-Hours-Italian-Restaurant)
+
+A responsive Flask restaurant website featuring menu presentation, opening hours, contact and location information, a food gallery, and reservation-focused calls to action.
+
+**Technology:** Python · Flask · Jinja · Bootstrap · JavaScript
+
 ## Let's Build Better Business Systems
 
 I am open to Odoo implementation, customization, migration, integration, troubleshooting, and long-term support engagements.
