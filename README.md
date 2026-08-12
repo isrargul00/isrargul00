@@ -30,7 +30,7 @@ As the **Founder of Odoie**, I combine business analysis, functional consulting,
 |---|---|
 | **Odoo Development** | Custom modules, ORM, QWeb reports, XML views, automation, and performance optimization |
 | **Functional Consulting** | Requirement analysis, process mapping, configuration, user training, and implementation support |
-| **Accounting & Reconciliation** | Chart of accounts, taxes, journals, bank statements, payments, and reconciliation workflows |
+| **Odoo Accounting Support** | Basic configuration and technical support for journals, taxes, payments, bank statements, and reconciliation workflows |
 | **Migration & Upgrades** | Database migration, module adaptation, data cleanup, testing, and Odoo version upgrades |
 | **API Integrations** | REST APIs, webhooks, payment gateways, SMS services, e-commerce, and third-party platforms |
 | **Deployment & DevOps** | Linux, PostgreSQL, Nginx, SSL, backups, monitoring, and production troubleshooting |
