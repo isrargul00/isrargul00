@@ -27,8 +27,9 @@ Israr Gul is a Senior Odoo Developer and Python engineer who builds and runs bus
 
 ## What I work on
 
-- **Odoo ERP**: custom module development on the Odoo ORM, customization and upgrades (Python, PostgreSQL, XML, OWL, JavaScript)
-- **Business processes**: accounting and bank reconciliation, HR and attendance, POS
+- **Odoo ERP**: custom module development on the Odoo ORM, customization, and migration between major Odoo versions (Python, PostgreSQL, XML, OWL, JavaScript)
+- **Business processes**: accounting and bank reconciliation, HR and attendance, POS, Odoo website and eCommerce
+- **Quality**: code review, testing and debugging of Odoo modules before release
 - **Integrations**: REST APIs for mobile and business apps, payment gateways, POS connectors, government e-invoicing (e.g. ZATCA)
 - **Deployment & operations**: cloud setup of Odoo services, Odoo.sh, Linux servers
 - **Mobile**: Flutter apps backed by Odoo APIs
