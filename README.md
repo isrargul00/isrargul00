@@ -2,21 +2,33 @@
 
 **Senior Software Engineer · Senior Odoo Developer** · Karachi, Pakistan
 
-I build and run business systems on Odoo ERP and Python: custom modules, integrations, payment and POS connectors, e-invoicing, and the cloud servers they run on. 5+ years in software, 4+ years focused on Odoo.
+Israr Gul is a Senior Odoo Developer and Python engineer who builds and runs business systems on Odoo ERP: custom modules on the Odoo ORM, REST API and payment integrations, POS connectors, e-invoicing, and the cloud servers they run on. 5+ years in software, 4+ years focused on Odoo.
 
 **Open to** senior software / Odoo / Python roles (including remote) and master's programs in AI / Computer Science.
 **Contact:** [LinkedIn](https://www.linkedin.com/in/isrargul00/) · [isrargul00@gmail.com](mailto:isrargul00@gmail.com)
 
 ---
 
+## Quick facts
+
+- **Role:** Senior Odoo Developer / Senior Software Engineer
+- **Experience:** 5+ years in software (since Apr 2021), 4+ years in Odoo (since Jun 2022)
+- **Core skills:** Odoo (ORM, custom modules, OWL), Python, PostgreSQL, REST APIs, JavaScript, Flutter, Linux
+- **Odoo work:** techno-functional, from requirements to deployment, on self-hosted cloud servers and Odoo.sh
+- **Certification:** Odoo 18 Certification (Odoo S.A.)
+- **Education:** BS Software Engineering, University of Sindh (2020)
+- **Location:** Karachi, Pakistan · works remotely across time zones
+- **Languages:** English, Urdu, Sindhi
+
 ## Current work
 
-- **Qaws Trading (KSA), Senior Odoo Developer, remote, since Nov 2024**: manage the Odoo client base; set up and run custom cloud deployments of Odoo services; build and maintain the APIs behind the mobile apps.
+- **Qaws Trading (KSA), Senior Odoo Developer, remote, since Nov 2024**: manage the Odoo client base; set up and run custom cloud deployments of Odoo services; build and maintain the REST APIs behind the mobile apps.
 - **One Solution Consulting Ltd. (Mauritius), Senior Odoo Developer, part-time, project-based, since Nov 2024**: deliver Odoo projects for clients hosted on Odoo.sh.
 
 ## What I work on
 
-- **Odoo ERP**: custom module development, upgrades and customization (Python, PostgreSQL, XML, OWL/JS)
+- **Odoo ERP**: custom module development on the Odoo ORM, customization and upgrades (Python, PostgreSQL, XML, OWL, JavaScript)
+- **Business processes**: accounting and bank reconciliation, HR and attendance, POS
 - **Integrations**: REST APIs for mobile and business apps, payment gateways, POS connectors, government e-invoicing (e.g. ZATCA)
 - **Deployment & operations**: cloud setup of Odoo services, Odoo.sh, Linux servers
 - **Mobile**: Flutter apps backed by Odoo APIs
@@ -37,7 +49,7 @@ Applying AI inside business systems: LLM-assisted classification of financial tr
 
 ## Stack
 
-`Python` · `Odoo` · `PostgreSQL` · `JavaScript / OWL` · `Django` · `Flask` · `FastAPI` · `REST APIs` · `Flutter` · `Linux` · `Git`
+`Python` · `Odoo` · `PostgreSQL` · `JavaScript` · `OWL` · `HTML/CSS` · `Django` · `Flask` · `FastAPI` · `REST APIs` · `Flutter` · `Linux` · `Git`
 
 ## Education & certification
 
