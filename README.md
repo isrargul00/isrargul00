@@ -21,7 +21,7 @@ I build and run business systems on Odoo ERP and Python: custom modules, integra
 | Role | Company | Period |
 |---|---|---|
 | Senior Odoo Developer (Remote) | Qaws Trading, KSA | Nov 2024 – present |
-| Senior Odoo Developer (Contract) | One Solution Consulting Ltd., Mauritius | Nov 2024 – present |
+| Senior Odoo Developer (Part-time, project-based) | One Solution Consulting Ltd., Mauritius | Nov 2024 – present |
 | Senior Odoo Developer (On-site, Riyadh) | Rawabi / Gulf Marvel | Jan 2024 – May 2024 |
 | Odoo Developer → Senior Odoo Developer | Comstar, Pakistan | Jun 2022 – Jan 2024 |
 | Full-Stack Web Application Developer | TheCloudBee, Pakistan | Apr 2021 – Mar 2022 |
