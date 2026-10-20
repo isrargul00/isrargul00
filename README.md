@@ -14,12 +14,6 @@ I build and run business systems on Odoo ERP and Python: custom modules, integra
 - **Qaws Trading (KSA), Senior Odoo Developer, remote, since Nov 2024**: manage the Odoo client base; set up and run custom cloud deployments of Odoo services; build and maintain the APIs behind the mobile apps.
 - **One Solution Consulting Ltd. (Mauritius), Senior Odoo Developer, part-time, project-based, since Nov 2024**: deliver Odoo projects for clients hosted on Odoo.sh.
 
-## Selected work
-
-- [**module**](https://github.com/isrargul00/module): Odoo custom modules and ERP integration experiments
-- [**odoo_basic_apps**](https://github.com/isrargul00/odoo_basic_apps): foundational Odoo apps and helper modules
-- [**blog**](https://github.com/isrargul00/blog): technical notes and experiments in Python, Odoo and software engineering
-
 ## What I work on
 
 - **Odoo ERP**: custom module development, upgrades and customization (Python, PostgreSQL, XML, OWL/JS)
